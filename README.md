@@ -107,7 +107,7 @@ $\color{#F4F4F4}{\text{⑅ . ⑅ . ⑅ . ⑅ . ⑅ . ⑅ . ⑅ . ⑅ . ⑅ . ⑅
 
 <p align="center">
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/2ce7853c-6518-4200-8d30-76e4fd864dca" />
-$\color{#547792}{\text{ Thank }}$ $\color{#F5ECE0}{\text{ you }}$ $\color{#547792}{\text{ for }}$ $\color{#F5ECE0}{\text{ read ! }}$ 
+$\color{#547792}{\text{ Thanks }}$ $\color{#547792}{\text{ for }}$ $\color{#F5ECE0}{\text{ read ! }}$ 
 
 <p align="center">
 $\color{#F4F4F4}{\text{⑅ . ⑅ . ⑅ . ⑅ . ⑅ . ⑅ . ⑅ . ⑅ . ⑅ . ⑅ . ⑅ . ⑅ . ⑅ . ⑅ . ⑅ . ⑅ . ⑅ . ⑅ . ⑅ . ⑅ . ⑅ . ⑅ . ⑅ . ⑅ . ⑅ .}}$
